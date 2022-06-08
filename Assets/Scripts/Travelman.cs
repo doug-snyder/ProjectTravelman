@@ -24,7 +24,7 @@ public class Travelman : MonoBehaviour
     void DropdownAction()
     {
         // Get and handle new dropdown selection.
-        Debug.Log("DropdownAction");
+        Debug.Log("Dropdown_Action");
     }
 
 }
