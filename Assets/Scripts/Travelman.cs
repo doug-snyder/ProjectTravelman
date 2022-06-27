@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class Travelman : MonoBehaviour
 {
+    List<Station> Stations;
     UnityEvent m_DropdownEvent = new UnityEvent();
 
 
@@ -25,6 +26,15 @@ public class Travelman : MonoBehaviour
     {
         // Get and handle new dropdown selection.
         Debug.Log("Dropdown_Action");
+    }
+
+    List<Station> GetStations()
+    {
+        List<Stations> list = new List<Station>();
+
+        
+
+        return list;
     }
 
 }
