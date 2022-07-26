@@ -30,7 +30,7 @@ public class Travelman : MonoBehaviour
 
     List<Station> GetStations()
     {
-        List<Stations> list = new List<Station>();
+        List<Station> list = new List<Station>();
 
         
 
