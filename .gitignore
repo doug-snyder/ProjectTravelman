@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+/UserSettings/Search.index
+/UserSettings/Search.settings
+/UserSettings/Layouts
